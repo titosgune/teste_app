@@ -1,0 +1,15 @@
+--- 
+cursor_positions: 
+  - :path: Gemfile
+    :cursor_offset: 0
+    :timestamp: 2013-07-19 13:31:52 +02:00
+  - :path: .gitignore
+    :cursor_offset: 0
+    :timestamp: 2013-07-19 13:34:55 +02:00
+  - :path: app/controllers/users_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2013-07-22 13:29:05 +02:00
+  - :path: app/controllers/microposts_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2013-07-22 13:30:50 +02:00
+files_to_retain: 0
